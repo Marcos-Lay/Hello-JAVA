@@ -45,7 +45,8 @@
 ### MQ
 
 ### 附加技能
-- [MarkDown 使用技巧](https://github.com/Marcos-Lay/Hello-JAVA/Docs/Additional-functions/MarkDown/Catalog.md)
+- [MarkDown 使用技巧](https://github.com/Marcos-Lay/Hello-JAVA/blob/master/Docs/Additional-functions/MarkDown/Catalog.md)
+
 ### 联系作者
 
 > 16619975586@163.com
