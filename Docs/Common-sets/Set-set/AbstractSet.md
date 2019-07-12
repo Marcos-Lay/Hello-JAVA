@@ -1,5 +1,11 @@
 # AbstractSet
 - AbstractSet 是一个抽象类，它继承于AbstractCollection。AbstractCollection实现了Set中的绝大部分函数(CRUD)，为Set的实现类提供了便利。
+## AbstractSet的直接子类
+- ConcurrentSkipListSet
+- CopyOnWriteArraySet
+- EnumSet
+- HashSet
+- TreeSet
 ## AbstractSet的构造函数
 - AbstractSet只有无参构造
 ```java
