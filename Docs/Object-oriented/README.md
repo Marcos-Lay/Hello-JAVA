@@ -1,0 +1,9 @@
+# 封装,继承,多态 
+- [封装,继承,多态概念整理](https://github.com/Marcos-Lay/Hello-JAVA/blob/master/Docs/Object-oriented/Encapsulation_Inheritance_Polymorphism/Encapsulation_Inheritance_Polymorphism.md)
+- [什么是多态]()
+- [方法重写与重载]()
+- [Java的继承与实现]()
+- [Java的继承与组合]()
+- [构造函数与默认构造函数]()
+- [类变量、成员变量和局部变量]()
+- [成员变量和方法作用域]()
