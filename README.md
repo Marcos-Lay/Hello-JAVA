@@ -27,7 +27,7 @@
 
 ### 面向对象
 - [什么是面向对象](https://github.com/Marcos-Lay/Hello-JAVA/blob/master/Docs/Object-oriented/What_is_OO.md)
-- [封装.继承.多态](https://github.com/Marcos-Lay/Hello-JAVA/blob/master/Docs/Object-oriented/readme.md)和[五大基本原则](https://github.com/Marcos-Lay/Hello-JAVA/blob/master/Docs/Object-oriented/Five_Basic_Principles.md)
+- [封装.继承.多态](https://github.com/Marcos-Lay/Hello-JAVA/blob/master/Docs/Object-oriented/README.md)和[五大基本原则](https://github.com/Marcos-Lay/Hello-JAVA/blob/master/Docs/Object-oriented/Five_Basic_Principles.md)
 
 ### JAVA基础知识
 - [平台无关性]()
