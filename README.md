@@ -26,24 +26,24 @@
 
 
 ### 面向对象
-- [什么是面向对象]
-- [平台无关性]
-- [值传递]
-- [封装.继承.多态]
+- [什么是面向对象](https://github.com/Marcos-Lay/Hello-JAVA/blob/master/Docs/Object-oriented/What_is_OO.md)
+- [封装.继承.多态](https://github.com/Marcos-Lay/Hello-JAVA/blob/master/Docs/Object-oriented/Encapsulation_Inheritance_Polymorphism/Catalog.md)和[五大基本原则](https://github.com/Marcos-Lay/Hello-JAVA/blob/master/Docs/Object-oriented/Five_Basic_Principles.md)
 
 ### JAVA基础知识
+- [平台无关性]()
+- [值传递]
 - [基本数据类型]
 - [自动拆装箱]
 - [String类型]
 - [JAVA中关键字]
 
-### 常用集合
+### 常用集合框架
 - [Set 集合整理](https://github.com/Marcos-Lay/Hello-JAVA/blob/master/Docs/Common-sets/Set-set/Catalog.md)
 - [List 集合整理]()
 - [Map 集合整理]()
 
 ### Java 多线程
-
+- volatile是如何实现可见性的？synchronized是如何实现有序性的？
 ### JVM
 
 ### 分布式相关
