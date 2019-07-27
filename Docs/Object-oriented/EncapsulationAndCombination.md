@@ -63,6 +63,26 @@ Java是一个面向对象的语言。每一个学习过Java的人都知道，封
 ## 对应的设计模式
 继承是模板模式，组合是策略模式
 
+## 示例
+spring中@Autowire和@Resources这种注入依赖的方式就是组合
+```java
+public class A {
+}
+public class B{
+    private A a; //拿A做有元变量
+}
+```
+继承是指：
+```java
+public class A {
+public void ddd(){
+}
+}
+public class B extends A {
+//它就能通过super.ddd()来拿父类A的方法
+}
+```
+
  [1]: https://zh.wikipedia.org/wiki/Is-a
  [2]: http://www.hollischuang.com/wp-content/uploads/2016/03/Generalization.jpg
  [3]: https://en.wikipedia.org/wiki/Has-a
