@@ -31,7 +31,7 @@
 - [封装.继承.多态](https://github.com/Marcos-Lay/Hello-JAVA/blob/master/Docs/Object-oriented/README.md)和[五大基本原则](https://github.com/Marcos-Lay/Hello-JAVA/blob/master/Docs/Object-oriented/Five_Basic_Principles.md)
 
 ### JAVA基础知识
-- [平台无关性]()
+- [平台无关性](https://github.com/Marcos-Lay/Hello-JAVA/blob/master/Docs/JAVA_Basic/PlatformIndependence.md)
 - [值传递]
 - [基本数据类型](https://github.com/Marcos-Lay/Hello-JAVA/blob/master/Docs/JAVA_Basic/README.md)
 - [自动拆装箱]
