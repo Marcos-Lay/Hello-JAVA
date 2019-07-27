@@ -33,7 +33,7 @@
 ### JAVA基础知识
 - [平台无关性]()
 - [值传递]
-- [基本数据类型]
+- [基本数据类型](https://github.com/Marcos-Lay/Hello-JAVA/blob/master/Docs/JAVA_Basic/README.md)
 - [自动拆装箱]
 - [String类型]
 - [JAVA中关键字]
