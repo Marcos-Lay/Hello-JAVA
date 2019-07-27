@@ -60,6 +60,9 @@ Java是一个面向对象的语言。每一个学习过Java的人都知道，封
 > 
 > 只有当子类真正是超类的子类型时，才适合用继承。换句话说，对于两个类A和B，只有当两者之间确实存在[`is-a`][1]关系的时候，类B才应该继承类A。《[Effective Java][6]》
 
+## 对应的设计模式
+继承是模板模式，组合是策略模式
+
  [1]: https://zh.wikipedia.org/wiki/Is-a
  [2]: http://www.hollischuang.com/wp-content/uploads/2016/03/Generalization.jpg
  [3]: https://en.wikipedia.org/wiki/Has-a
