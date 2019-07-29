@@ -37,6 +37,7 @@
 - [自动拆装箱]
 - [String类型]
 - [JAVA中关键字]
+- [JAVA内存模型](https://github.com/Marcos-Lay/Hello-JAVA/blob/master/Docs/JAVA_Basic/JAVA_Momery_Model.md)
 
 ### 常用集合框架
 - [Set 集合整理](https://github.com/Marcos-Lay/Hello-JAVA/blob/master/Docs/Common-sets/Set-set/Catalog.md)
@@ -61,6 +62,7 @@
 
 ### 附加技能
 - [MarkDown 使用技巧](https://github.com/Marcos-Lay/Hello-JAVA/blob/master/Docs/Additional-functions/MarkDown/Catalog.md)
+- [Postman 使用技巧](https://github.com/Marcos-Lay/Hello-JAVA/blob/master/Docs/Additional-functions/Postman/Postman_skill.md)
 
 ### 博客整理
 - [JVM内存结构 VS Java内存模型 VS Java对象模型](http://www.hollischuang.com/archives/2509)
