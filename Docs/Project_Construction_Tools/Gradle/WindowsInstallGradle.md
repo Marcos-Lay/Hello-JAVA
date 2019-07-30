@@ -3,3 +3,4 @@
 # 安装Gradle
 - 从[Gradle官网](https://gradle.org/releases/)下载安装安装包
 <img src="https://github.com/Marcos-Lay/Hello-JAVA/blob/master/Docs/Project_Construction_Tools/Gradle/InstallPng.png">
+- 下载下来的是安装包，最好解压到当前文件夹
