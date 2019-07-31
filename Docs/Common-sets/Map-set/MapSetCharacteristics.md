@@ -1,0 +1,29 @@
+# Map
+##概述
+java.util.Map<K,V>接口:集合,是一个双列集合
+## 特征
+- 是一个双列集合,赋值的时候必须同时给key和value赋值
+- 是一个无序的集合(存入和取出元素的顺序可能不一致)
+- key值不能重复,value可以重复
+- 一个key只能对应一个vlaue
+- 定义集合时,数据类型key和value可以使用相同的数据类型,也可以使用不同的数据类型
+## 全部实现类
+- AbstractMap(常用)
+- Attributes
+- AuthProvider
+- ConcurrentHashMaps(常用)
+- ConcurrentSkipListMap(常用)
+- EnumMap(常用)
+- HashMap(常用)
+- Hashtable(常用)
+- IdentityHashMap
+- LinkedHashMap(常用)
+- PrinterStateReasons
+- Properties
+- Provider
+- RenderingHints
+- SimpleBindings
+- TabularDataSupport
+- TreeMap(常用)
+- UIDefaults
+- WeakHashMap
