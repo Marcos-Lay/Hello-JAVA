@@ -83,5 +83,63 @@ public class TestFileSystemXmlApplicationContext {
 </listener>
 ```
 由于context-param是可选项，因此如果没有指定对应配置文件的话，会默认加载名称叫做applicationContext.xml的文件，同时param-value中还可以指定别的配置文件，多个配置文件中间使用逗号分隔就可以了
+## 介绍BeanFactory和ApplicationContext
+在学习SpringIOC之前，先来介绍一下Spring中的几个重要的类，在接下来的学习当中都是围绕着这几个累进性的，因此在现在要着重介绍一下，有一个大致的印象。你也许听说过，Spring其实是作为一个容器，支持各种各样的组件来配合。而Spring的IOC是一个工厂（容器）来管理Bean，所以Spring的IOC中最重要的有两点，一个是创建 Bean 容器，一个是初始化 Bean。
+- 创建Bean容器
+最重要的类就是BeanFactory
+- 初始化Bean
+最重要的类就是ApplicationContext
 ## 实例化ApplicationContext
 本文通过ClassPathXmlApplicationContext来作为入口实例化ApplicationContext，首先来写一个简单的例子，通过断点来对源码进行跟踪解读。
+- 定义一个接口
+```java
+public interface TestMassage {
+
+    String getMassage();
+}
+```
+- 定义接口实现类
+```java
+/**
+ * @program: spring
+ * @description:
+ * @author: Marcos-Lay
+ * @create: 2019-08-01 15:53
+ **/
+public class TestMassageImpl implements TestMassage{
+
+    public String getMassage() {
+        return "hello SpringIOC";
+    }
+}
+```
+- 创建applicationContext配置文件，把接口装配成bean交给Spring管理
+```java
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+    
+    <bean id="testMassage" class="com.malei.TestMassageImpl"></bean>
+    
+</beans>
+```
+- 通过ClassPathXmlApplicationContext来启动ApplicationContext
+```java
+/**
+ * @program: spring
+ * @description: 启动ApplicationContext
+ * @author: Marcos-Lay
+ * @create: 2019-08-01 15:55
+ **/
+public class StartApplicationContext {
+    public static void main(String[] args) {
+        ClassPathXmlApplicationContext classPathXmlApplicationContext = new ClassPathXmlApplicationContext("applicationContext.xml");
+        TestMassage bean = classPathXmlApplicationContext.getBean(TestMassage.class);
+        System.out.println(bean.getMassage());
+        //输出结果hello SpringIOC
+    }
+}
+```
+接下来我们通过断点调试来查看Spring如何通过ClassPathXmlApplicationContext来实例化ApplicationContext,这就是SpringIOC的核心
+
