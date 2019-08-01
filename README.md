@@ -82,6 +82,8 @@
 
 ### Spring
 - [Spring源码阅读环境搭建]()
+- [Spring框架核心介绍 DI/IOC和AOP原理概念性介绍](https://www.cnblogs.com/chenbenbuyi/p/7470834.html)
+- [Spring容器和应用上下文理解](https://www.cnblogs.com/chenbenbuyi/p/8166304.html)
 - [SpringIOC源码解读](https://github.com/Marcos-Lay/Hello-JAVA/blob/master/Docs/Spring/SpringIOCSourceCode.md)
 
 ### RabbitMQ
