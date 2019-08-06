@@ -28,9 +28,9 @@
 
 >Frame knowledge
 
-|👁 |‍ 🗨 | 💘 | 📊 | ⚔️ |
-| :--------: | :--------: | :--------: | :--------: | :--------: |
-| [分布式](#分布式相关) |[Spring](#spring)|[项目构建](#项目构建工具)|[架构设计](#架构设计)|[Swagger2 ](#swagger2)|
+|👁 |‍ 🗨 | 💘 | 📊 | ⚔️ | 🖥 |
+| :--------: | :--------: | :--------: | :--------: | :--------: | :--------: |
+| [分布式](#分布式相关) |[Spring](#spring)|[项目构建](#项目构建工具)|[架构设计](#架构设计)|[Swagger2 ](#swagger2)|[Nginx](#nginx)|
 
 >DB knowledge
 
@@ -71,6 +71,7 @@
 
 ### Java 多线程
 - volatile是如何实现可见性的？synchronized是如何实现有序性的？
+- ThreadLocal 
 ### JVM
 - [JAVA对象不全是在堆上分配内存的](https://www.hollischuang.com/archives/2398)——[其中的JIT技术请点击这里](https://blog.csdn.net/weixin_44811417/article/details/90602576)
 ### 分布式相关
@@ -86,6 +87,9 @@
 - [Spring容器和应用上下文理解](https://www.cnblogs.com/chenbenbuyi/p/8166304.html)
 - [SpringIOC源码解读](https://github.com/Marcos-Lay/Hello-JAVA/blob/master/Docs/Spring/SpringIOCSourceCode.md)
 
+### Nginx
+- [nginx 代理如何获取真实ip地址](https://blog.csdn.net/it_0101/article/details/78390700)
+
 ### RabbitMQ
 
 ### 架构设计
@@ -95,7 +99,10 @@
 ### 关系型数据库
 
 ### 非关系型数据库
-
+- [Redis]()
+- [Mongodb]()
+- [Mongodb操作内嵌数组与内嵌文档]()
+- [Mongodb中update操作符addToSet与push的区别]()
 ### 数据结构与算法
 - [红黑树](https://github.com/Marcos-Lay/Hello-JAVA/blob/master/Docs/Data-Structure-and-Algorithms/RedAndBlackTree.md)
 ### MQ
