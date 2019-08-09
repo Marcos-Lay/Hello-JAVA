@@ -22,9 +22,9 @@
 <br/>
 > JAVA Basic knowledge
 
-|👁 |‍ 🗨 | 💘 | 📊 |⚔️ | 🖥 |
-| :--------: | :--------: | :--------: | :--------: | :---------: | :---------: | 
-| [面向对象](#面向对象) |[JAVA](#java知识) | [集合](#常用集合) | [多线程](#java-多线程)|[JVM](#jvm) |[算法](#数据结构与算法) |
+|👁 |‍ 🗨 | 💘 | 📊 |⚔️ | 🖥 | 🚏 | 🏖  | 🌁 |
+| :--------: | :--------: | :--------: | :--------: | :---------: | :---------: |  :---------: | :---------: | :---------: | 
+| [面向对象](#面向对象) |[JAVA](#java知识) | [集合](#常用集合) | [多线程并发](#java-多线程)|[JVM](#jvm) |[算法](#数据结构与算法) | [IO](#IO) | [NIO](#NIO) | [Netty](netty) |
 
 >Frame knowledge
 
@@ -38,11 +38,11 @@
 | :--------: | :--------: | :--------: |
 | [关系型数据库](#关系型数据库) | [非关系型数据库](#非关系型数据库) | [Druid连接池](druid)|
 
->MQ knowledge
+>Middleware knowledge
 
-|👁 |
-| :--------: |
-| [RabbitMQ](#rabbitmq) |
+|👁 | 🗨 | 💘 |
+| :--------: | :--------: | :--------: |
+| [RabbitMQ](#rabbitmq) | [Docker](#docker) | [Dubbo](dubbo)
 
 >Other
 
@@ -72,8 +72,14 @@
 ### Java 多线程
 - volatile是如何实现可见性的？synchronized是如何实现有序性的？
 - ThreadLocal 
+- 
 ### JVM
 - [JAVA对象不全是在堆上分配内存的](https://www.hollischuang.com/archives/2398)——[其中的JIT技术请点击这里](https://blog.csdn.net/weixin_44811417/article/details/90602576)
+
+### IO
+
+### NIO
+
 ### 分布式相关
 
 ### 项目构建工具
@@ -91,6 +97,8 @@
 - [nginx 代理如何获取真实ip地址](https://blog.csdn.net/it_0101/article/details/78390700)
 
 ### RabbitMQ
+
+### Docker
 
 ### 架构设计
 
@@ -113,11 +121,13 @@
 ### 附加技能
 - [MarkDown 使用技巧](https://github.com/Marcos-Lay/Hello-JAVA/blob/master/Docs/Additional-functions/MarkDown/Catalog.md)
 - [Postman 使用技巧](https://github.com/Marcos-Lay/Hello-JAVA/blob/master/Docs/Additional-functions/Postman/Postman_skill.md)
+- [Mac 使用技巧]()
 
 ### 博客整理
 - [JVM内存结构 VS Java内存模型 VS Java对象模型](http://www.hollischuang.com/archives/2509)
 - [Java内存模型](https://www.hollischuang.com/archives/2550)
 - [总有人把JAVA内存模型理解为JVM运行时内存模型](https://www.hollischuang.com/archives/3781)
+- [JAVA 10个复杂的面试题](https://segmentfault.com/a/1190000019962661)
 
 ### 联系作者
 
