@@ -56,7 +56,7 @@
 
 ### JAVA知识
 - [平台无关性](https://github.com/Marcos-Lay/Hello-JAVA/blob/master/Docs/JAVA_Basic/PlatformIndependence.md)
-- [值传递]
+- [引用传递和值传递](https://blog.csdn.net/bntx2jsqfehy7/article/details/83508006)
 - [基本数据类型](https://github.com/Marcos-Lay/Hello-JAVA/blob/master/Docs/JAVA_Basic/README.md)
 - [自动拆装箱]
 - [String类型]
