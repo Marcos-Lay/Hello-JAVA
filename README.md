@@ -128,6 +128,7 @@
 - [Java内存模型](https://www.hollischuang.com/archives/2550)
 - [总有人把JAVA内存模型理解为JVM运行时内存模型](https://www.hollischuang.com/archives/3781)
 - [JAVA 10个复杂的面试题](https://segmentfault.com/a/1190000019962661)
+- [如何处理复杂业务代码](http://developer.51cto.com/art/201908/601248.htm)
 
 ### 联系作者
 
