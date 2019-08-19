@@ -108,6 +108,11 @@
 ### Swagger2
 
 ### 关系型数据库
+- [数据库的读现象浅析](http://www.hollischuang.com/archives/900)
+- [深入分析事务的隔离级别](http://www.hollischuang.com/archives/943)
+- [数据库锁机制](http://www.hollischuang.com/archives/909)
+- [深入理解乐观锁与悲观锁](http://www.hollischuang.com/archives/934)
+- [CAS实现乐观锁](http://www.hollischuang.com/archives/1537)
 
 ### 非关系型数据库
 - [Redis]()
