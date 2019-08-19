@@ -24,7 +24,7 @@
 
 |👁 |‍ 🗨 | 💘 | 📊 |⚔️ | 🖥 | 🚏 | 🏖  | 🌁 |
 | :--------: | :--------: | :--------: | :--------: | :---------: | :---------: |  :---------: | :---------: | :---------: | 
-| [面向对象](#面向对象) |[JAVA](#java知识) | [集合](#常用集合) | [多线程并发](#java-多线程)|[JVM](#jvm) |[算法](#数据结构与算法) | [IO](#IO) | [NIO](#NIO) | [Netty](netty) |
+| [面向对象](#面向对象) |[JAVA](#java基础知识) | [集合](#常用集合) | [多线程并发](#java-多线程)|[JVM](#jvm) |[算法](#数据结构与算法) | [IO](#IO) | [NIO](#NIO) | [Netty](netty) |
 
 >Frame knowledge
 
@@ -54,14 +54,16 @@
 - [什么是面向对象](https://github.com/Marcos-Lay/Hello-JAVA/blob/master/Docs/Object-oriented/What_is_OO.md)
 - [封装.继承.多态](https://github.com/Marcos-Lay/Hello-JAVA/blob/master/Docs/Object-oriented/README.md)和[五大基本原则](https://github.com/Marcos-Lay/Hello-JAVA/blob/master/Docs/Object-oriented/Five_Basic_Principles.md)
 
-### JAVA知识
+### JAVA基础知识
 - [平台无关性](https://github.com/Marcos-Lay/Hello-JAVA/blob/master/Docs/JAVA_Basic/PlatformIndependence.md)
 - [引用传递和值传递](https://blog.csdn.net/bntx2jsqfehy7/article/details/83508006)
 - [基本数据类型](https://github.com/Marcos-Lay/Hello-JAVA/blob/master/Docs/JAVA_Basic/README.md)
 - [深拷贝和浅拷贝]
 - [自动拆装箱](https://github.com/hollischuang/toBeTopJavaer/blob/master/basics/java-basic/boxing-unboxing.md)
+- [Java中整型的缓存机制](https://github.com/hollischuang/toBeTopJavaer/blob/master/basics/java-basic/integer-cache.md)
 - [String类型]
-- [JAVA中关键字]
+- [JAVA中修饰符]
+- [Java中的关键词]
 - [JAVA内存模型](https://github.com/Marcos-Lay/Hello-JAVA/blob/master/Docs/JAVA_Basic/JAVA_Momery_Model.md)
 - [深入分析JAVA编译原理](https://blog.csdn.net/weixin_44811417/article/details/90602576)
 
