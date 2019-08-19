@@ -13,7 +13,7 @@
 </div><br>
 
 
-> `Basic Java for beginners`：适合新手的Java基础篇。
+> `Java backend engineer technology stack`：Java后端工程师技术栈。
 
 > 菩提本无树，明镜亦非台，
 本来无一物，何处惹尘埃。|👁 |‍ 🗨 | 💘 | 📊 |⚔️ | 🖥 | 🚏 | 🏖  | 🌁| 📮 | 🔍 | 🚀 | 🌈 | 💡 |
