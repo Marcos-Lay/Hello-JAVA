@@ -58,7 +58,7 @@
 - [平台无关性](https://github.com/Marcos-Lay/Hello-JAVA/blob/master/Docs/JAVA_Basic/PlatformIndependence.md)
 - [引用传递和值传递](https://blog.csdn.net/bntx2jsqfehy7/article/details/83508006)
 - [基本数据类型](https://github.com/Marcos-Lay/Hello-JAVA/blob/master/Docs/JAVA_Basic/README.md)
-- [深拷贝和浅拷贝]
+- [深拷贝和浅拷贝](https://www.cnblogs.com/shakinghead/p/7651502.html)
 - [自动拆装箱](https://github.com/hollischuang/toBeTopJavaer/blob/master/basics/java-basic/boxing-unboxing.md)
 - [Java中整型的缓存机制](https://github.com/hollischuang/toBeTopJavaer/blob/master/basics/java-basic/integer-cache.md)
 - [String类型]
