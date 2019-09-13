@@ -16,7 +16,7 @@
 > `Java backend engineer technology stack`：Java后端工程师技术栈。
 
 > 菩提本无树，明镜亦非台，
-本来无一物，何处惹尘埃。|👁|‍ 🗨 | 💘 | 📊 |⚔️ | 🖥 | 🚏 | 🏖  | 🌁| 📮 | 🔍 | 🚀 | 🌈 | 💡 |
+本来无一物，何处惹尘埃。|👁|‍ 🗨| 💘 | 📊 |⚔️ | 🖥 | 🚏 | 🏖  | 🌁| 📮 | 🔍 | 🚀 | 🌈 | 💡 |
 
 **访问这里获取更多更好的阅读**：[https://crossoverjie.top](https://crossoverjie.top)
 <br/>
